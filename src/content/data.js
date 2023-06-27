@@ -1,0 +1,65 @@
+export const data = [
+    {
+      "name": "Photo 1",
+      "url": "/images/1.jpg",
+      "description": "Banana in pink background",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 2",
+      "url": "/images/2.jpg",
+      "description": "Elephant in blue background",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 3",
+      "url": "/images/3.jpg",
+      "description": "A Tree",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 4",
+      "url": "/images/4.jpg",
+      "description": "Baloons",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 5",
+      "url": "/images/5.jpg",
+      "description": "Color Art",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 6",
+      "url": "/images/6.jpg",
+      "description": "Nuts",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 7",
+      "url": "/images/7.jpg",
+      "description": "Dice",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 8",
+      "url": "/images/8.jpg",
+      "description": "Lightbulb in hand",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Photo 9",
+      "url": "/images/9.jpg",
+      "description": "Hands holding flowers",
+      "date": "2023-06-09",
+      "type": "image/jpg",
+    }
+  ]
